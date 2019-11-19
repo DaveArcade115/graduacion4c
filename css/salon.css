@@ -2,6 +2,10 @@
     margin: 40px;
 }
 
+.silla-reservada{
+    color: red;
+}
+
 .contenedor-mesa {
     margin: 5px;
     width: 150px;
